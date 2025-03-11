@@ -1,6 +1,6 @@
 # PCA-ORA plotting function for plant RNA-Seq data
 
-#### This function is written in R and can be used to visualize RNA-Seq data with their MapMan/Mercator annotation. 
+#### This function is written in R and can be used to visualize plant RNA-Seq data with their MapMan/Mercator annotation. 
 
 The function was used to assess drought stress in blackcurrant leaf and root tissues (Ziegler et al., 2024; [DOI: 10.1093/hr/uhae313]) and to analyze molecular mechanisms of floral initiation in strawberry (Ziegler et al., 2025; [DOI: 10.1101/2025.01.20.633581]). 
 
