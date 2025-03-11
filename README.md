@@ -1,6 +1,11 @@
 # PCA-ORA plotting function for plant RNA-Seq data
 
 #### This function is written in R and can be used to visualize RNA-Seq data with their MapMan/Mercator annotation. 
+
+The function was applied to evaluate drought stress in blackcurrant leaf and root tissue (Ziegler et al., 2024; https://doi.org/10.1093/hr/uhae313) and to analyse molecular mechanisms in floral initiation in strawberry (Ziegler et al., 2025; https://doi.org/10.1101/2025.01.20.633581).
+If you're using this function please cite this Github directory.
+
+
 #### The data will be plotted as an PCA with an overrepresentation analysis (ORA) based on the DEGs, which have a high impact in the separation along the PC axes.
 
 Required R packages:
@@ -50,5 +55,8 @@ If the genes of the score table of the PCA are to be annotated for PC1-PC3 + an 
 #####  ORA filtering
 
 TRUE/FALSE if ORA table should be filtered. Default: FALSE
+
+
+**Citation:** If you use this code, please cite the this directory.
 
 
