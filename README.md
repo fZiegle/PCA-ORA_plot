@@ -56,6 +56,6 @@ If the genes of the score table of the PCA are to be annotated for PC1-PC3 + an 
 TRUE/FALSE if ORA table should be filtered. Default: FALSE
 
 
-**Citation:** If you use this code, please cite the this directory.
+**Citation:** If you use this code, please cite this directory.
 
 
